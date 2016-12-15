@@ -39,7 +39,7 @@ public class InventoryController {
 	 */
 	@RequestMapping("/check")
 	@ResponseBody String check() {
-		return "it works!";
+		return "just commit already!";
 	}
 
 	/**
